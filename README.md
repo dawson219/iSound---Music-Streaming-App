@@ -6,7 +6,7 @@ Project Topic : iSound - Music Streaming Website
 Here is the Project Link: https://isound.azurewebsites.net
 (Note: The playing of songs is dependent on internet speed, wait some time for the songs to play. Also click on the white space next to the names of the songs to play any song. You can also use the next and previous button on the player at the bottom to change songs.)
 
-Here is the Project Video Demo Link: https://drive.google.com/file/d/1VGv32qVmEf0gvBAQMs_4OTn7muFwaVhS/view?usp=sharing
+Here is the Project Video Demo Link: https://drive.google.com/file/d/1uWSMi2iwCLWMKBwwNDBUktBFmkaOcsZb/view?usp=sharing
 
 Azure Technologies Used: Azure App Service , Azure App service VS Code Extension.
 Technologies Used in Project: HTML , CSS , JavaScript.
