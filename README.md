@@ -3,7 +3,7 @@ This is my Project for the Microsoft Future Ready Talent Internship
 
 Project Topic : iSound - Music Streaming Website
 
-Here is the Project Link: 
+Here is the Project Link: https://isound.azurewebsites.net
 (Note: The playing of songs is dependent on internet speed, wait some time for the songs to play. Also click on the white space next to the names of the songs to play any song. You can also use the next and previous button on the player at the bottom to change songs.)
 
 Here is the Project Video Demo Link: https://drive.google.com/file/d/1VGv32qVmEf0gvBAQMs_4OTn7muFwaVhS/view?usp=sharing
@@ -29,7 +29,7 @@ Here are the Screenshots of the Working of the Websites:
 
 ![](Site3.PNG)
 
-We can See that the Website is hosted at : isound.azurewebsites.net
+We can See that the Website is hosted at : https://isound.azurewebsites.net
 
 Here are the analytics for the Website:
 ![](Data1.PNG)
